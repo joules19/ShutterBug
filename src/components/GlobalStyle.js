@@ -20,7 +20,7 @@ const GlobalStyle = createGlobalStyle`
     }
     button{
         font-family: 'Inter', sans-serif;
-        font-weight: bold;
+        /* font-weight: bold; */
         font-size: 1.1rem;          
         cursor: pointer;
         padding: 1rem 2rem;
@@ -43,7 +43,7 @@ const GlobalStyle = createGlobalStyle`
     p{
         padding: 3rem 0rem;
         color: #cccccc;
-        font-size: 1.2rem;
+        font-size: 1rem;
         line-height: 150%;
     }
     h4{
