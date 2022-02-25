@@ -14,8 +14,6 @@ const GlobalStyle = createGlobalStyle`
     body{
         background: #1b1b1b;
         font-family: 'Inter', sans-serif;
-        
-  }
        
     }
     button{
@@ -47,7 +45,7 @@ const GlobalStyle = createGlobalStyle`
         line-height: 150%;
     }
     h4{
-        font-size: 2.5rem;
+        font-size: 1.5rem;
     }
     span{
         font-weight: bold;
